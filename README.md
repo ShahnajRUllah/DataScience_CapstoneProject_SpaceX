@@ -16,6 +16,8 @@ The data was saved into a Pandas dataframe and cleaned using Python in Jupyter n
 After cleaning of the dataset EDA was performed:
   - SQL was used to perform exploratory data analysis to gain insight by querying the data
   - Python seaborn and matplotlib was used to create data visualization for exploratory data analysis as well
+  - Plotly dash was also used to create a brief dashboard to gather insights as to which sites, payload range 
+    and booster type had the most success
   
   Lastly, a prediction model was created:
   - SVM, logistic regression, decision tree and K-nearest neighbors machine learning algorithms was used to
